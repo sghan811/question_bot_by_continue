@@ -1,0 +1,20 @@
+{
+    "values": {
+        "guild": "880403591351918593",
+        "guild2": {
+            "id": "740531767760519199",
+            "category": "883982300017229854"
+        }
+    },
+    "bot": {
+        "token": "ODgzOTc3Njc1ODA1NDQyMDY4.YTRyXQ.yUCNhRa9ujW66rWVWps23XJ05ho"
+    },
+    "사용법": {
+        "guild": "유저를 검색할 길드",
+        "guild2": {
+            "id": "문의가 전송될 길드의 아이디",
+            "category": "문의 답장 채널이 만들어질 카테고리 아이디"
+        },
+        "token":"봇의 토큰"
+    }
+}
